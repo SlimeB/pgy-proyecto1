@@ -1,2 +1,2 @@
 # pgy_proyecto1
-progecto para la asignatura dePGY hola mundo
+progecto para la asignatura de PGY hola mundo
